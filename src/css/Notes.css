@@ -1,0 +1,8 @@
+.container_yourNotes{
+    margin-left: 250px;
+}
+.myNoteitem{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

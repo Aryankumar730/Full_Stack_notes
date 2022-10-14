@@ -1,0 +1,28 @@
+.addnote_container{
+    width: 800px;
+    margin-left: 250px;
+    height: 100%;
+    
+}
+body, html {
+    height: 100%;
+}
+.main_heading{
+    color: black;
+}
+.addnote{
+    /* color: rgb(211, 228, 253); */
+    color: white;
+    font-weight: 500;
+}
+
+
+.main_heading{
+    text-align: center;
+}
+.mb-3 > textarea{
+    background-color: #ccd9f0;
+}
+.mb-3 > input{
+    background-color: #ccd9f0;
+}

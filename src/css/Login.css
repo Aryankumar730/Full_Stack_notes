@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* /* body{
+    background: url(./liverpool.jpg) no-repeat center center fixed; 
+} */
+body{
+    background: url(../img/bridge.jpg);
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+           
+}
+hr{
+    display: block;
+    height: 2px;
+    width: 500px;
+    border-top: 2px solid rgb(3, 30, 66);
+    margin: 1em 0;
+    
+}
+#contain{
+    margin-top: 30px;
+    margin-left: 190px;
+}
+
+#contain > h2{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(2, 29, 64);
+    
+}
+
+.myform{
+    width: 350px;
+    margin-top: 18px;
+    
+}
+.login_form{
+    font-weight: 500;
+    color: rgb(211, 228, 253);
+}
+.icon{
+    /* color: rgb(211, 228, 253);  */
+    color: white;
+
+}
+i{
+    margin-right: 3px;
+}
